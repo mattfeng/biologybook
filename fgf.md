@@ -1,7 +1,9 @@
 # The fibroblast growth factor (FGF) family
 
-this is a new page test[1]_.
+this is a new page test.[^test]
 
 ## References
 
-.. [1] test citation
+[^test]: test citation
+    hello
+    hello again
