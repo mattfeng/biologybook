@@ -29,3 +29,8 @@ html_static_path = ['_static']
 html_theme_options = {
     "display_version": True
 }
+
+myst_enable_extensions = [
+    "amsmath",
+    "dollarmath"
+]
