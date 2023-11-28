@@ -1,9 +1,5 @@
 # The fibroblast growth factor (FGF) family
 
-this is a new page test.[^test]
+What if the reference is not backlinked?
 
-## References
-
-[^test]: test citation
-    hello
-    hello again
+[^beenken2009]: Beenken and Mohammadi, _Nat Rev Drug Discov_. 2009. The FGF family: biology, pathophysiology and therapy. [https://doi.org/10.1038/nrd2792](https://doi.org/10.1038/nrd2792). 

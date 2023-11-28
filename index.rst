@@ -7,8 +7,6 @@ Welcome to The Biology Book!
 
    fgf
 
-
-
 Indices and tables
 ==================
 
