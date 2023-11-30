@@ -32,5 +32,16 @@ html_theme_options = {
 
 myst_enable_extensions = [
     "amsmath",
-    "dollarmath"
+    "attrs_inline",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist"
 ]
