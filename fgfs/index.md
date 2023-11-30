@@ -1,5 +1,6 @@
 # The fibroblast growth factor (FGF) family
 
+- FGFs are secreted glycoproteins
 - 18 mammalian FGFs[^beenken2009]
     - FGF1 through FGF10
     - FGF16 through FGF23
@@ -46,6 +47,8 @@
 - **heparan sulfate glycosaminoglycan (HSGAG) binding site (HBS)** within the FGF core is composed of the $\beta$1-$\beta$2 loop and parts of region spanning $\beta$10-$\beta$12
     - forms a contiguous, positively charged surface
     - subfamily 6 contains ridges that reduce HSGAG binding to the core, leading to the endocrine nature of the subfamily
+    - FGFs are readily sequestered by the ECM by **heparan sulfate proteoglycans (HSPGs)**
+        - FGFs are released from the ECM by heparinases, proteases, or specific FGF binding proteins
 
 ### FGFRs
 - four functional mammalian FGFRs
@@ -54,6 +57,10 @@
     - FGFR3
     - FGFR4
     - FGFR5 (=FGFRL1): no tyrosine kinase domain; may function as negative regulator of FGF signalling
+
+## FGF signalling and cancer[^turner2010]
+
+
 
 [^beenken2009]: Beenken and Mohammadi, _Nat Rev Drug Discov_. 2009. The FGF family: biology, pathophysiology and therapy. [https://doi.org/10.1038/nrd2792](https://doi.org/10.1038/nrd2792). 
 [^nickel2005]: Unconventional secretory routes: direct protein transport across the plasma membrane of mammalian cells. [https://doi.org/10.1111/j.1600-0854.2005.00302.x](https://doi.org/10.1111/j.1600-0854.2005.00302.x)

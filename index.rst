@@ -5,7 +5,8 @@ Welcome to The Biology Book!
    :maxdepth: 2
    :caption: Contents
 
-   fgf
+   fgfs/index.md
+   bmps/index.md
 
 Indices and tables
 ==================
